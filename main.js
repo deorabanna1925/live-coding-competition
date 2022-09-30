@@ -40,6 +40,7 @@ function displaySites(sites) {
         });
         sitesList.appendChild(button);
     });
+    firstButton.click();
 }
 
 function getContests(url) {
